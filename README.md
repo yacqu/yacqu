@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yacqu
 - 
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in full stack development
 
-- 🌱 I am a front-end developer with a strong background in React and a passion for building intuitive and visually appealing user interfaces.
+- 🌱 I am a full stack developer with a strong background in React and a passion for building intuitive and visually appealing user interfaces.
 
 - In addition to my experience with modern web development technologies, I also have a background in control systems design and have worked with micro controllers in various projects. 
 
